@@ -1,0 +1,58 @@
+h2{
+    color: red;    
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+h3{
+    padding: 10px 0 0 20px;
+    font-size: 23px;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+h6{
+    color: rgb(132, 132, 42);
+    padding: 0px 30px;
+}
+
+p{    
+    font-size: 14px;    
+}
+
+body{
+    padding-left: 0px;
+    background-color: #e9ecef;    
+}
+
+.center {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+
+.btn{
+    color: white;
+    background-color: blue;
+}
+
+/* .card{
+    float: left;
+} */
+
+.bosluk{    
+    padding-bottom: 20px;    
+}
+
+/* .yan{
+    margin-right: 1%;
+    width: 30px;
+}  */
